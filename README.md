@@ -1,31 +1,86 @@
 <h1 align="center">Hi 👋, I'm Marwan Hussein</h1>
-<h3 align="center">Software Engineer | Backend Developer | Full Stack Developer | Deep Learning Enthusiast</h3>
+<h3 align="center">Software Engineer | Backend Developer | Full Stack Developer </h3>
 
-- 🚀 I’m currently working on **Natheme – Product Management & Business Dashboard System**  
-A full system with authentication, product management, orders, analytics, and a modern UI.
-
-- 👯 I’m looking to collaborate on **Full-stack and backend projects using Node.js, Express.js, NestJS, TypeScript, React, PostgreSQL, MongoDB, Docker, JWT, .NET, Python, and systems involving APIs, automation, or deep learning.**
-
-- 🌱 I’m currently learning **Advanced Backend Architecture, System Design, and modern frontend development.**
-
-- 💬 Ask me about **Node.js, Express, NestJS, TypeScript, PostgreSQL, MongoDB, Docker, .NET, React, and Deep Learning.**
-
-- 📫 How to reach me: **mrwanahmedhussin@gmail.com**
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/mrwanhussein)
-
-- 📄 Know about my experiences: [View My Resume](YOUR_RESUME_LINK_HERE)
-
-- ⚡ Fun fact: **I build complex systems… and still think I'm funny 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/marwan-hussein-545b151b3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p align="center">
+Highly motivated computer science professional with a strong foundation in backend engineering, full-stack development, and AI-powered applications. Experienced in building scalable systems, dashboards, and data-driven solutions. Passionate about solving complex problems and contributing to innovative projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 📫 How to reach me
+- Email: **mrwanahmedhussin@gmail.com**
+- LinkedIn: [Marwan Hussein](https://www.linkedin.com/in/marwan-hussein-545b151b3/)
+- GitHub: [mrwanhussein](https://github.com/mrwanhussein)
+- Resume: [View My Resume](YOUR_RESUME_LINK_HERE)
+
+---
+
+### 🚀 Current Project
+**Natheme – Product Management & Business Dashboard System**  
+A full system with authentication, product management, orders, analytics, and a modern UI.  
+_Tech Stack: Node.js, TypeScript, React, PostgreSQL, MongoDB, Docker_
+
+---
+
+### 👯 Collaboration Interests
+Full-stack and backend projects using **Node.js, Express.js, NestJS, TypeScript, React, PostgreSQL, MongoDB, Docker, JWT, .NET, Python**, APIs, automation, or deep learning systems.
+
+---
+
+### 🌱 I’m currently learning
+Advanced Backend Architecture, System Design, Modern Frontend Technologies, and DevOps practices.
+
+---
+
+### 💬 Ask me about
+Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Docker, .NET, React, TypeScript.
+
+---
+
+### 🛠 Skills
+
+**Programming Languages & Frameworks:**  
+HTML, CSS, JavaScript, TypeScript, C++, Python, Scala, C#, SQL, Node.js, Express.js, NestJS, React, .NET, PostgreSQL, MongoDB, JWT, Docker, Jest
+
+**Tools & Platforms:**  
+GitHub, Jira, Anaconda, VSCode, Postman, Datadog, dbGate, DBeaver, Swagger/OpenAPI
+
+
+---
+
+### 💼 Work Experience
+
+**Full Stack Software Engineer Intern – VOIS** (Aug 2025 - Sep 2025)  
+Contributed to full stack development in Intelligent Automation Department. Gained experience with multiple frameworks and enhanced teamwork and problem-solving skills.
+
+**Software Engineer Part-Time – Breadfast** (Aug 2024 - Mar 2025)  
+Worked on backend systems, contributing to supply chain optimization and project management.
+
+**Software Engineering Intern – Breadfast** (Jul 2024 - Aug 2024)  
+Supported backend development for supply chain systems, improving technical and business knowledge.
+
+
+
+### 🎓 Education
+
+**Faculty of Computer and Information Sciences, Ain Shams University**  
+Bachelor of Computer Science (2021 - 2025)
+
+
+
+### 🏆 Projects
+
+- **Catalog Service Dashboard (VOIS Internship Project):** .NET, React, PostgreSQL dashboard with CRUD, analytics, and search.  
+- **GreenPulse – Plant Disease Detection & Soil Analysis:** Full-stack app using Node.js, React, and deep learning models for potato, onion, wheat diseases and soil analysis with crop recommendation.  
+- **Natheme – Product Management Dashboard:** Full system for managing products, orders, analytics with Node.js, React, PostgreSQL.  
+- **Website for Friend’s Mall:** Multi-section website for shopping, restaurants, cinema, and kids’ area.  
+- **Online Marketplace Management System (Data Structures):** Product browsing, cart management, and user info updates.  
+- **Bus Reservation System (Intro to CS Course):** Seat selection, booking, and cancellation system.  
+
+---
+
+
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -60,19 +115,16 @@ A full system with authentication, product management, orders, analytics, and a 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
