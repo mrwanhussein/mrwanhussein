@@ -48,23 +48,6 @@ GitHub, Jira, Anaconda, VSCode, Postman, Datadog, dbGate, DBeaver, Swagger/OpenA
 
 ---
 
-### 💼 Work Experience
-
-**Full Stack Software Engineer Intern – VOIS** (Aug 2025 - Sep 2025)  
-Contributed to full stack development in Intelligent Automation Department. Gained experience with multiple frameworks and enhanced teamwork and problem-solving skills.
-
-**Software Engineer Part-Time – Breadfast** (Aug 2024 - Mar 2025)  
-Worked on backend systems, contributing to supply chain optimization and project management.
-
-**Software Engineering Intern – Breadfast** (Jul 2024 - Aug 2024)  
-Supported backend development for supply chain systems, improving technical and business knowledge.
-
-
-
-### 🎓 Education
-
-**Faculty of Computer and Information Sciences, Ain Shams University**  
-Bachelor of Computer Science (2021 - 2025)
 
 
 
