@@ -11,7 +11,7 @@ Highly motivated computer science professional with a strong foundation in backe
 - Email: **mrwanahmedhussin@gmail.com**
 - LinkedIn: [Marwan Hussein](https://www.linkedin.com/in/marwan-hussein-545b151b3/)
 - GitHub: [mrwanhussein](https://github.com/mrwanhussein)
-- Resume: [View My Resume]([YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1hzSgPvT4hHT-TtlTV5f56FhY4vcYdaB-/view?usp=sharing))
+- Resume: [View My Resume]([[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1hzSgPvT4hHT-TtlTV5f56FhY4vcYdaB-/view?usp=sharing)](https://drive.google.com/file/d/1hzSgPvT4hHT-TtlTV5f56FhY4vcYdaB-/view?usp=sharing))
 
 ---
 
