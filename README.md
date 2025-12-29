@@ -51,16 +51,48 @@ GitHub, Jira, Anaconda, VSCode, Postman, Datadog, dbGate, DBeaver, Swagger/OpenA
 
 
 
-### 🏆 Projects
+# 🏆 Projects
 
-- **Catalog Service Dashboard (VOIS Internship Project):** .NET, React, PostgreSQL dashboard with CRUD, analytics, and search.  
-- **GreenPulse – Plant Disease Detection & Soil Analysis:** Full-stack app using Node.js, React, and deep learning models for potato, onion, wheat diseases and soil analysis with crop recommendation.  
-- **Natheme – Product Management Dashboard:** Full system for managing products, orders, analytics with Node.js, React, PostgreSQL.  
-- **Website for Friend’s Mall:** Multi-section website for shopping, restaurants, cinema, and kids’ area.  
-- **Online Marketplace Management System (Data Structures):** Product browsing, cart management, and user info updates.  
-- **Bus Reservation System (Intro to CS Course):** Seat selection, booking, and cancellation system.  
+## Natheme Web Platform
+**Role:** Full-Stack Developer  
+Full-stack web platform for a Saudi-based company specializing in planting walls and landscape solutions. Built a scalable backend with **Node.js**, a modern frontend with **Next.js**, designed **RESTful APIs**, and integrated **PostgreSQL**. Implemented a clean, maintainable two-view architecture.
 
 ---
+
+## GreenPulse (Graduation Project)
+**Role:** Full-Stack Developer  
+Full-stack web application for plant disease detection (**Potato, Onion, Wheat**) and soil analysis with crop recommendation. Integrated **machine learning and deep learning models** into a web-based system using **Node.js** and **React**.
+
+---
+
+## Savoy Development Website (2025)
+**Role:** Front-End Developer  
+Modern, responsive corporate website built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. Deployed on **Netlify** with custom domain, HTTPS, SEO optimization, and performance best practices.
+
+---
+
+## Catalog Service Dashboard (VOIS Internship Project)
+**Role:** Full-Stack Developer  
+Internal dashboard developed using **.NET** for the backend and **React** for the frontend to manage projects, squads, teams, services, and members. Implemented advanced search and filtering, activity tracking, data insights, and full administrative **CRUD** functionality.
+
+---
+
+## Car Products Management System (Ashour Stock)
+**Role:** Full-Stack Developer  
+Web-based product management system built with **React** (frontend) and **.NET** (backend), supporting inventory tracking, pricing management, and order processing with a focus on data consistency and usability.
+
+---
+
+## Website for Friend’s Mall
+**Role:** Front-End Developer  
+Multi-section website for a shopping mall, including shopping areas, restaurants, cinema, and kids’ entertainment sections.
+
+---
+
+## Bus Reservation Website
+**Role:** Back-End Developer  
+Web-based reservation system enabling users to select seats, book tickets, and cancel reservations, focusing on logical system flow and backend functionality.
+
 
 
 <h3 align="left">Languages & Tools:</h3>
