@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Hussein</h1>
-<h3 align="center">Software Engineer | Backend Developer | Full Stack Developer </h3>
+<h3 align="center">Software Engineer | Backend Developer | Full Stack Developer</h3>
 
 <p align="center">
 Highly motivated computer science professional with a strong foundation in backend engineering, full-stack development, and AI-powered applications. Experienced in building scalable systems, dashboards, and data-driven solutions. Passionate about solving complex problems and contributing to innovative projects.
@@ -8,10 +8,9 @@ Highly motivated computer science professional with a strong foundation in backe
 ---
 
 ### 📫 How to reach me
-- Email: **mrwanahmedhussin@gmail.com**
-- LinkedIn: [Marwan Hussein](https://www.linkedin.com/in/marwan-hussein-545b151b3/)
-- Resume: [View My Resume](https://drive.google.com/file/d/1hzSgPvT4hHT-TtlTV5f56FhY4vcYdaB-/view?usp=sharing)
-
+- Email: **mrwanahmedhussin@gmail.com**  
+- LinkedIn: [Marwan Hussein](https://www.linkedin.com/in/marwan-hussein-545b151b3/)  
+- Resume: [View My Resume](https://drive.google.com/file/d/1hzSgPvT4hHT-TtlTV5f56FhY4vcYdaB-/view?usp=sharing)  
 
 ---
 
@@ -33,7 +32,7 @@ Advanced Backend Architecture, System Design, Modern Frontend Technologies, and 
 ---
 
 ### 💬 Ask me about
-Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Docker, .NET, React, TypeScript.
+Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Docker, .NET, React, TypeScript
 
 ---
 
@@ -45,11 +44,7 @@ HTML, CSS, JavaScript, TypeScript, C++, Python, Scala, C#, SQL, Node.js, Express
 **Tools & Platforms:**  
 GitHub, Jira, Anaconda, VSCode, Postman, Datadog, dbGate, DBeaver, Swagger/OpenAPI
 
-
 ---
-
-
-
 
 # 🏆 Projects
 
@@ -93,7 +88,7 @@ Multi-section website for a shopping mall, including shopping areas, restaurants
 **Role:** Back-End Developer  
 Web-based reservation system enabling users to select seats, book tickets, and cancel reservations, focusing on logical system flow and backend functionality.
 
-
+---
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
