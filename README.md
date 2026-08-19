@@ -1,92 +1,118 @@
 <h1 align="center">Hi 👋, I'm Marwan Hussein</h1>
-<h3 align="center">Software Engineer | Backend Developer | Full Stack Developer</h3>
+<h3 align="center">Full-Stack Software Engineer | Backend Developer | Data & BI Engineer</h3>
 
 <p align="center">
-Highly motivated computer science professional with a strong foundation in backend engineering, full-stack development, and AI-powered applications. Experienced in building scalable systems, dashboards, and data-driven solutions. Passionate about solving complex problems and contributing to innovative projects.
+Full-Stack Software Engineer at VOIS with experience in building scalable web applications, backend systems, 
+and data-driven solutions. I develop end-to-end systems including APIs, modern frontends, data pipelines, 
+and analytical dashboards that support real business decisions. Passionate about clean architecture, 
+performance, and delivering production-ready solutions.
 </p>
+
+---
+
+### 🧠 About Me
+- 💼 **Full-Stack Software Engineer at VOIS** (Primary Role)  
+- 📊 Also working as **Data Engineer & BI Engineer** in AI & Automation  
+- ⚙️ Experienced in **Frontend, Backend, APIs, Dashboards & Data Pipelines**  
+- 🚀 Focused on **Scalable Systems & End-to-End Development**
 
 ---
 
 ### 📫 How to reach me
 - Email: **mrwanahmedhussin@gmail.com**  
-- LinkedIn: [Marwan Hussein](https://www.linkedin.com/in/marwan-hussein-545b151b3/)  
-- Resume: [View My Resume](https://drive.google.com/file/d/1hzSgPvT4hHT-TtlTV5f56FhY4vcYdaB-/view?usp=sharing)  
+- LinkedIn: https://www.linkedin.com/in/marwan-hussein-545b151b3/  
+- Resume: https://drive.google.com/file/d/16kW5a_NSv-E7EV1NNNv6HbouZCq4WZY3/view?usp=drivesdk  
 
 ---
 
-### 🚀 Current Project
-**Natheme – Product Management & Business Dashboard System**  
-A full system with authentication, product management, orders, analytics, and a modern UI.  
-_Tech Stack: Node.js, TypeScript, React, PostgreSQL, MongoDB, Docker_
+### 🚀 Featured Projects
+
+## 🏢 Natheme – Business Dashboard System
+**Full-Stack Developer**
+
+Complete business platform including:
+- Authentication & Role-Based Access  
+- Product & Order Management  
+- Analytics Dashboards  
+- Admin & Employee Views  
+
+**Tech:** Node.js, TypeScript, React, PostgreSQL, MongoDB, Docker  
+
+🎥 **Demo Video:** *https://www.linkedin.com/posts/marwan-hussein-545b151b3_project-demo-natheme-full-stack-web-activity-7408504716285939712-gTo6?utm_source=share&utm_medium=member_ios&rcm=ACoAADHSKcUBql0RmnZaMh-co-ivVA_sxMSZxaQ*  
 
 ---
 
-### 👯 Collaboration Interests
-Full-stack and backend projects using **Node.js, Express.js, NestJS, TypeScript, React, PostgreSQL, MongoDB, Docker, JWT, .NET, Python**, APIs, automation, or deep learning systems.
+## 🌐 Savoy Development Website
+**Front-End Developer**
+
+Modern corporate website with:
+- SEO optimization  
+- High performance  
+- Responsive UI  
+
+**Tech:** Next.js, TypeScript, Tailwind CSS  
+
+🔗 **Live:** *https://savoy-development.com/*  
 
 ---
 
-### 🌱 I’m currently learning
-Advanced Backend Architecture, System Design, Modern Frontend Technologies, and DevOps practices.
+## 🏢 Vergate System
+**Full-Stack Developer**
+
+Business system focused on:
+- Backend architecture  
+- Data handling  
+- Dashboard reporting  
+- Full-stack implementation  
+
+🔗 **Live:** *https://www.vergate.net/*  
+
+---
+
+## 🌱 GreenPulse (Graduation Project)
+**Full-Stack + AI Developer**
+
+- Plant disease detection (Potato, Onion, Wheat)  
+- Soil analysis & crop recommendation  
+- Integrated ML models into a full-stack web system  
+- 🎥 **Demo Video:**https://lnkd.in/p/e68hwJ-i*
+---
+
+## 📊 Catalog Service Dashboard (VOIS Internship)
+**Full-Stack Developer**
+
+- Built internal dashboard for managing teams & services  
+- Implemented analytics & reporting features  
+- Developed backend APIs and frontend UI
+- 🎥 **Demo Video:**https://lnkd.in/p/eVENVeXP*
+---
+
+# 🛠 Tech Stack
+
+### 💻 Full-Stack Development  
+Node.js, Express.js, NestJS, .NET, C#, TypeScript, React, Next.js  
+
+### 🎨 Frontend  
+React, Next.js, Tailwind CSS  
+
+### 🗄 Databases  
+PostgreSQL, MongoDB, SQL  
+
+### 📊 Data & AI  
+Python, Data Engineering, ETL Pipelines, Data Modeling, Machine Learning  
+
+### ⚙️ Tools  
+Docker, GitHub, Jira, Postman, Datadog, DBeaver, Swagger  
+
+---
+
+### 🌱 Currently Learning
+System Design, Advanced Backend Architecture, DevOps, and Scalable Systems  
 
 ---
 
 ### 💬 Ask me about
-Node.js, Express.js, NestJS, PostgreSQL, MongoDB, Docker, .NET, React, TypeScript
-
----
-
-### 🛠 Skills
-
-**Programming Languages & Frameworks:**  
-HTML, CSS, JavaScript, TypeScript, C++, Python, Scala, C#, SQL, Node.js, Express.js, NestJS, React, .NET, PostgreSQL, MongoDB, JWT, Docker, Jest
-
-**Tools & Platforms:**  
-GitHub, Jira, Anaconda, VSCode, Postman, Datadog, dbGate, DBeaver, Swagger/OpenAPI
-
----
-
-# 🏆 Projects
-
-## Natheme Web Platform
-**Role:** Full-Stack Developer  
-Full-stack web platform for a Saudi-based company specializing in planting walls and landscape solutions. Built a scalable backend with **Node.js**, a modern frontend with **Next.js**, designed **RESTful APIs**, and integrated **PostgreSQL**. Implemented a clean, maintainable two-view architecture.
-
----
-
-## GreenPulse (Graduation Project)
-**Role:** Full-Stack Developer  
-Full-stack web application for plant disease detection (**Potato, Onion, Wheat**) and soil analysis with crop recommendation. Integrated **machine learning and deep learning models** into a web-based system using **Node.js** and **React**.
-
----
-
-## Savoy Development Website (2025)
-**Role:** Front-End Developer  
-Modern, responsive corporate website built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**. Deployed on **Netlify** with custom domain, HTTPS, SEO optimization, and performance best practices.
-
----
-
-## Catalog Service Dashboard (VOIS Internship Project)
-**Role:** Full-Stack Developer  
-Internal dashboard developed using **.NET** for the backend and **React** for the frontend to manage projects, squads, teams, services, and members. Implemented advanced search and filtering, activity tracking, data insights, and full administrative **CRUD** functionality.
-
----
-
-## Car Products Management System (Ashour Stock)
-**Role:** Full-Stack Developer  
-Web-based product management system built with **React** (frontend) and **.NET** (backend), supporting inventory tracking, pricing management, and order processing with a focus on data consistency and usability.
-
----
-
-## Website for Friend’s Mall
-**Role:** Front-End Developer  
-Multi-section website for a shopping mall, including shopping areas, restaurants, cinema, and kids’ entertainment sections.
-
----
-
-## Bus Reservation Website
-**Role:** Back-End Developer  
-Web-based reservation system enabling users to select seats, book tickets, and cancel reservations, focusing on logical system flow and backend functionality.
+Full-Stack Development, APIs, Backend Architecture, Dashboards, Data Pipelines, .NET, React  
 
 ---
 
