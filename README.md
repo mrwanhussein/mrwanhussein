@@ -44,6 +44,7 @@ Built the production dashboard frontend for Modelii, and made the backend change
 - Updates on the existing API so these screens can load and submit project, payment, expense, and settlement data
 
 **Tech:** dashboard UI, with .NET / C# changes on the backend
+
 🔗 **Live:** https://modelii.com/
 ---
 
