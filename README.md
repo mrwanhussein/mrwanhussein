@@ -12,7 +12,7 @@ I care about clean architecture, performance, and software that is ready for pro
 
 ### 🧠 About Me
 - 💼 **Full-Stack Software Engineer at VOIS**
-- 📊 **Data Engineer & BI Engineer** in AI & Automation
+- 📊 **Data Engineer & BI Engineer at VOIS** in AI & Automation
 - ⚙️ Hands-on across **frontend, backend, APIs, dashboards, and data pipelines**
 - 🚀 Focused on **scalable systems and end-to-end delivery**
 
