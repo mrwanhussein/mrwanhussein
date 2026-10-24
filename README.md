@@ -45,7 +45,7 @@ Built the production dashboard frontend for Modelii, and made the backend change
 
 **Tech:** dashboard UI, with .NET / C# changes on the backend
 
-  🔗 **Live:** https://modelii.com/
+    🔗 **Live:** https://modelii.com/
 ---
 
 ## 🏢 Natheme – Business Dashboard System
