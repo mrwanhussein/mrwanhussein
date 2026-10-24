@@ -28,7 +28,7 @@ I care about clean architecture, performance, and software that is ready for pro
 ### 🚀 Featured Projects
 
 ## 🏗️ Modelii — Production Dashboard
-**Frontend Developer** · ![Recent project](https://img.shields.io/badge/Recent%20project-2026-166534)
+**Frontend Developer**                                   · ![Recent project](https://img.shields.io/badge/Recent%20project-2026-166534)
 
 Built the production dashboard frontend for Modelii, and made the backend changes those screens depend on.
 
